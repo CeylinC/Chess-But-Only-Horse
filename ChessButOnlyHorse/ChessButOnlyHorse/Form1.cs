@@ -228,6 +228,7 @@ namespace ChessButOnlyHorse
         {
             MessageBox.Show($"Game Over\nScore: {score}");
         }
+
         private bool FinishGameControl()
         {
             for (int i = 0; i < size; i++)

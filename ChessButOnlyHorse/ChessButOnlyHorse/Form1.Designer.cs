@@ -58,7 +58,7 @@
             // button_play
             // 
             this.button_play.Font = new System.Drawing.Font("Voice In My Head", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button_play.Location = new System.Drawing.Point(154, 468);
+            this.button_play.Location = new System.Drawing.Point(151, 471);
             this.button_play.Name = "button_play";
             this.button_play.Size = new System.Drawing.Size(115, 60);
             this.button_play.TabIndex = 2;
@@ -69,7 +69,7 @@
             // button_size
             // 
             this.button_size.Font = new System.Drawing.Font("Voice In My Head", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button_size.Location = new System.Drawing.Point(93, 468);
+            this.button_size.Location = new System.Drawing.Point(90, 471);
             this.button_size.Name = "button_size";
             this.button_size.Size = new System.Drawing.Size(60, 60);
             this.button_size.TabIndex = 2;
@@ -80,7 +80,7 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Voice In My Head", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(275, 468);
+            this.button3.Location = new System.Drawing.Point(272, 471);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(60, 60);
             this.button3.TabIndex = 2;
@@ -91,7 +91,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(422, 530);
+            this.ClientSize = new System.Drawing.Size(422, 551);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button_size);
             this.Controls.Add(this.button_play);
