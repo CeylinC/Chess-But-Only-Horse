@@ -1,0 +1,11 @@
+C:\Users\ailes\Documents\GitHub\Chess-But-Only-Horse\ChessButOnlyHorse\ChessButOnlyHorse\bin\Debug\ChessButOnlyHorse.exe.config
+C:\Users\ailes\Documents\GitHub\Chess-But-Only-Horse\ChessButOnlyHorse\ChessButOnlyHorse\bin\Debug\ChessButOnlyHorse.exe
+C:\Users\ailes\Documents\GitHub\Chess-But-Only-Horse\ChessButOnlyHorse\ChessButOnlyHorse\bin\Debug\ChessButOnlyHorse.pdb
+C:\Users\ailes\Documents\GitHub\Chess-But-Only-Horse\ChessButOnlyHorse\ChessButOnlyHorse\obj\Debug\ChessButOnlyHorse.csproj.AssemblyReference.cache
+C:\Users\ailes\Documents\GitHub\Chess-But-Only-Horse\ChessButOnlyHorse\ChessButOnlyHorse\obj\Debug\ChessButOnlyHorse.csproj.SuggestedBindingRedirects.cache
+C:\Users\ailes\Documents\GitHub\Chess-But-Only-Horse\ChessButOnlyHorse\ChessButOnlyHorse\obj\Debug\ChessButOnlyHorse.Form1.resources
+C:\Users\ailes\Documents\GitHub\Chess-But-Only-Horse\ChessButOnlyHorse\ChessButOnlyHorse\obj\Debug\ChessButOnlyHorse.Properties.Resources.resources
+C:\Users\ailes\Documents\GitHub\Chess-But-Only-Horse\ChessButOnlyHorse\ChessButOnlyHorse\obj\Debug\ChessButOnlyHorse.csproj.GenerateResource.cache
+C:\Users\ailes\Documents\GitHub\Chess-But-Only-Horse\ChessButOnlyHorse\ChessButOnlyHorse\obj\Debug\ChessButOnlyHorse.csproj.CoreCompileInputs.cache
+C:\Users\ailes\Documents\GitHub\Chess-But-Only-Horse\ChessButOnlyHorse\ChessButOnlyHorse\obj\Debug\ChessButOnlyHorse.exe
+C:\Users\ailes\Documents\GitHub\Chess-But-Only-Horse\ChessButOnlyHorse\ChessButOnlyHorse\obj\Debug\ChessButOnlyHorse.pdb
